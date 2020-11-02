@@ -1,0 +1,223 @@
+
+IoT directorate IETF 109 pre-meeting
+IoT-DIR Chairs: Samita Chakrabarti, Ari Keränen, Ines Robles
+
+Webex:
+Friday, Oct 30, 2020 7:00 am | 1 hour 30 minutes | (UTC-07:00) Pacific Time (US & Canada)
+Meeting number: 171 621 4173
+Password: DFbfpCir387
+https://ietf.webex.com/ietf/j.php?MTID=m6c391228a257588f13c17990d59c2acc
+
+Join by video system
+Dial 1716214173@ietf.webex.com
+You can also dial 173.243.2.68 and enter your meeting number.
+
+Join by phone
+1-650-479-3208 Call-in toll number (US/Canada)
+Access code: 171 621 4173
+
+Draft agenda
+Overview of the IETF/IRTF IoT groups (WG/RG chairs; 1-2 minutes per group)
+Notice that we aim to record the meeting.
+
+Attendees
+Ines Robles
+Francesca Palombini
+Michael Richardson, Sandelman Software Works
+Carsten Bormann, TZI
+Samita
+Marco Tiloca, RISE
+Éric Vyncke, Cisco
+Dave Thaler
+Nancy Cam-Winget, Cisco
+Pascal Thubert, Cisco
+Mališa Vučinić, Inria
+Carles Gomez, UPC
+Daniel MIgault Ericsson
+Dominique Barthel
+Rob Wilton, Cisco
+Overview of the IETF/IRTF IoT groups
+6TiSCH (Thomas Watteyne / Pascal Thubert)
+All Documents in RFC editor queue in Cluster C310: https://www.rfc-editor.org/cluster_info.php?cid=C310
+
+C310 is held by:
+
+https://datatracker.ietf.org/doc/draft-ietf-roll-unaware-leaves/
+https://datatracker.ietf.org/doc/draft-ietf-roll-useofrplinfo/
+https://datatracker.ietf.org/doc/draft-ietf-core-stateless/
+Otherwise the group is ready to close
+
+6lo (Carles Gomez / Shwetha Bhandari)
+Overall WG status hasn’t changed significantly since IETF 108.
+Most WG documents are at very advanced stages, and progressing.
+Not much new work.
+
+5 documents in RFC Ed queue (also part of C310)
+* 4 documents in AUTH48: AP-ND (RFC 8928), Backb. router (RFC 8929), fragmentation (RFC 8930-8931)
+* Not yet in AUTH48: deadline time draft
+
+1 document in IESG evaluation
+* IPv6 over NFC
+
+3 other active WG documents (quite advanced):
+* Publication requested (IPv6 mesh over BLE)
+* Passed WGLC (IPv6 over PLC)
+* 2nd WGLC done (6Lo use cases)
+
+1 individual draft at initial stages: SCHC header compression in 6lo environments
+
+Poll on WG opinion on the following draft (authors approached Independent Submission Editor):
+- Design Considerations for Low Power Internet Protocols
+
+ACE (Daniel Migault)
+Revising OSCORE Profile, group communication and MQTT profile close to be sent to IESG
+
+ASDF (Michael Richardson / Niklas Widell)
+WG has been formally formed in October, there is a first official virtual interim meeting occuring 2020-11-02, 1800UTC.
+A WG Adoption call for the base document has been issued.
+We expect to do virtual interims on an approximately monthly basis, probably in the above slot. We will hold a session at IETF109.
+
+CBOR (Francesca Palombini)
+Continued the WG biweekly interims
+WG rechartered recently to work on CDDL extensions.
+CBOR Tags for Date and 7049bis in RFC Editor.
+draft-ietf-cbor-tags-oid-02 in WGLC (ends in 2 weeks)
+CoRE (Jaime Jimenez / Marco Tiloca)
+16 active WG drafts, of which 2 in IESG review (Resource Directory and Stateless), 2 in AD review (Echo-Request-Tag and Dev-URN), 4 expected to leave the WG soon (Coreconf documents).
+
+The Group OSCORE document passed WGLC, the upcoming version will address the comments. — https://datatracker.ietf.org/doc/draft-ietf-core-oscore-groupcomm/
+
+We had biweekly virtual Interim meetings mostly about:
+
+addressing the IESG comments on Resource Directory and Stateless
+https://datatracker.ietf.org/doc/draft-ietf-core-resource-directory/
+https://datatracker.ietf.org/doc/draft-ietf-core-stateless/
+advancing the work on Dynlink and Blockwise transfer for a DOTS use case.
+https://datatracker.ietf.org/doc/draft-ietf-core-dynlink/
+https://datatracker.ietf.org/doc/draft-ietf-core-new-block/
+In the IETF 109 hackathon, we will cover a new round of tests for Group OSCORE.
+(ACE, ANIMA: participating in Hackathon)
+
+COSE (Matt Miller / Ivaylo Petrov)
+Finishing the pile of documents, much of which is Jim Schaad’s legacy.
+Stand-ins to complete processing of these documents have been found and are working on it.
+
+DetNet (János Farkas / Lou Berger)
+1 hour session schedule @ IETF 109
+
+3 RFCs published (Architecure, Problem Statement, Use Cases)
+Core drafts with IESG
+o draft-ietf-detnet-data-plane-framework --> RFC Ed Queue
+o draft-ietf-detnet-ip --> RFC Ed Queue
+o draft-ietf-detnet-mpls --> RFC Ed Queue
+o draft-ietf-detnet-ip-over-mpls --> RFC Ed Queue
+o draft-ietf-detnet-mpls-over-udp-ip --> Publication requested, Waiting for Writeup
+o draft-ietf-detnet-flow-information-model --> Publication requested, Waiting for Writeup
+o draft-ietf-detnet-security --> Publication requested, Waiting for Writeup
+3 Drafts post WG last call (All TSN data plane related)
+DetNet YANG is wrapping soon (hopefully)
+Other active WG drafts cover OAM, bounded latency, and (comming soon) controller plane
+LAKE (Mališa Vučinić / Stephen Farrell)
+2-hour session during IETF 109 to discuss open EDHOC issues. No major change since IETF 108.
+
+LWIG (Mohit Sethi / Zhen Cao)
+One of the LWIG documents is in IESG (TCP guidance in IoT Environments)
+
+LPWAN (Alex Pelov / Pascal Thubert)
+Major activity around 2 documents:
+
+https://datatracker.ietf.org/doc/draft-ietf-lpwan-coap-static-context-hc/ A major architecture change in SCHC / CoAP draft to accomodate the (innner) SCHC compression of COSE-protected objects that may happen between different end points than the outer SCHC. The draft is progressing through IESG.
+https://datatracker.ietf.org/doc/draft-ietf-lpwan-schc-over-lorawan/ IETF last call started for SCHC over LoRaWAN document, the first SCHC over Foo the group produced.
+RATS (Kathleen/ Nancy / Ned)
+We’ll have 4 hours of sessions in IETF 109
+
+Document activity:
+
+https://datatracker.ietf.org/doc/draft-ietf-rats-architecture/: in WGLC [MCR . o O ( woohoo! ) ]
+https://datatracker.ietf.org/doc/draft-ietf-rats-tpm-based-network-device-attest/: completed first WGLC with comments, a new draft (-05) has been published and awaiting confirmation that all comments are addressed
+https://datatracker.ietf.org/doc/draft-ietf-rats-eat/: continues to progress
+https://datatracker.ietf.org/doc/draft-ietf-rats-yang-tpm-charra/: under Yang doctor review, if that passes we can start a WGLC
+https://datatracker.ietf.org/doc/draft-ietf-rats-reference-interaction-models/: has been adopted and awaiting reviews
+There are a few other drafts under discussion and aspire adoption:
+
+https://datatracker.ietf.org/doc/draft-birkholz-rats-coswid-rim/: attestation of software identities using (CoSWID)
+https://datatracker.ietf.org/doc/draft-birkholz-rats-suit-claims/: use SUIT Claims
+https://datatracker.ietf.org/doc/draft-birkholz-rats-uccs/: unendorsed tokens
+https://datatracker.ietf.org/doc/draft-voit-rats-trustworthy-path-routing/: using remote attestations to establish a trusted routing path
+ROLL (Dominique Barthel / Ines Robles)
+Will have two hours in IETF 109
+
+Activity on documents:
+
+useofrplinfo, turnon: AD Followup
+unaware-leaves: at AD Review
+draft-ietf-roll-efficient-npdao : RFC Editor Queue
+enrollment-priority: reviews needed.
+draft-ietf-roll-aodv-rpl-08: AD Evaluation
+draft-ietf-roll-capabilities and mopex: In Progress
+draft-ietf-roll-nsa-extension: New Version - Ready for AD
+Preparing topics for RPLv2 (RFC6550bis): topics to be defined- currently in github list of topics: basically integrate new functinalities defined in current drafts (e.g. capabilities, extensible MOP, AODV-RPL, DAO-Projection).
+SUIT (Dave Thaler / David Waltermire / Russ Housley)
+Meeting for 1 hour at IETF 109
+
+Activity around 3 WG documents:
+
+https://datatracker.ietf.org/doc/draft-ietf-suit-architecture/ Scheduled for the IESG telechat on 2020-11-05; it should be considered very stable.
+https://datatracker.ietf.org/doc/draft-ietf-suit-information-model/ This completed AD Review, which raised a few comments that will be addressed before IETF 109. Draft update was posted 2 days ago, and AD then started IETF LC.
+https://datatracker.ietf.org/doc/draft-ietf-suit-manifest/ This is the focus of the most recent work; the basic structure has settled, but some things are still being influenced by Hackathon experiences.
+Non-WG docs:
+
+https://datatracker.ietf.org/doc/draft-moran-suit-report/ At IETF 108, this content was part of draft-ietf-suit-manifest and per WG discussion, it was subsequently split out to a separate draft so that the manifest could go to WGLC while this document has relatively new discussion.
+https://datatracker.ietf.org/doc/draft-moran-suit-mud/ Discussed at IETF 108, expect follow-up discussion.
+TEEP (Tiru Reddy / Nancy Cam-Winget)
+Will have one session in IETF 109
+
+Activity of 3 documents:
+
+https://datatracker.ietf.org/doc/draft-ietf-teep-architecture/ : awaiting final comment resolution update so IESG request for publication can begin. New version to be posted by Monday.
+https://datatracker.ietf.org/doc/draft-ietf-teep-otrp-over-http/: awaiting final comment resolution update so IESG request for publication can begin. New version was published this month.
+https://datatracker.ietf.org/doc/draft-ietf-teep-protocol/ : more review and discussion is needed. New version to be posted by Monday.
+T2TRG (Ari Keränen / Carsten Bormann)
+Mostly busy with the transfer of the OneDM work to ASDF.
+Hackathon only at IETF109.
+Will spin up again after IETF109.
+And work on IoT Edge Computing Networks will get back into focus soon.
+
+COIN (Jeffrey He / Eve Schooler / Marie-Jose Montpetit)
+RAW (Rick Taylor / Eve Schooler)
+Charter aim to produce informational documents: use case documents, related to technologies, 5G, Link defined for aviation, …, … All described based on the same structure.
+
+An interesting draft on 5G from Janos. OAM work is progressing in addition to Architecture framework.
+No relationship with 6g-ip interest group.
+
+Proposed WG: IOT Operations [iotops] (Alexey Melnikov, Henk Birkholz)
+https://datatracker.ietf.org/wg/iotops/about/
+
+The IOTOPS working group is for the discussion of operational issues related to Internet of Things (IoT) devices and the publication and standardization of documents that relate to management of IoT devices, in particular related to device onboarding and lifecycle management.
+
+ML is alive with ~50 subscribers, but discussion is only starting.
+Discussion on the IESG to define the shape of this WG. Aim to generate Informational docs describing problems and requirements.
+
+WK - A new kind of working group proposal ( not just focusing on generating drafts). People can get-together and discuss experiences. Currently this discussion is going on to introduce this new concept to IESG, since this is not usual way of doing stuff at IETF.
+Barry - [more like an IoTdispatch]
+What is MOPS? Media OPerationS
+[https://datatracker.ietf.org/wg/mops/about/]
+Éric: More about sharing experience
+Henk - procedural question - if you need inputs, it can be carefully orchestrted, less about protocols… testing ideas to be included?
+Warren: Let’s discuss more on the scope and charter at the mailing list
+Robert - Let’s send the current charter to the i
+otops list. Eric has already sent out information on this new initiative.
+
+New/planned IETF/IRTF IoT activities
+Updates from other IoT groups
+IoT Security Foundation (mcr)
+Launched site called https://vulnerablethings.com/
+Three webinars series has been running around EN 303 645 recommendations involving: No universal default passwords, Software Updates, and Vulnerability Disclosures. see https://iotsecurityfoundation.org/consumer-iot/
+MCR is the subject matter expert for default passwords, and Software Updates. SUIT WG material has been key. One more series of webinars at December IOTSF conference.
+
+NISTIR 8259
+Consumer IoT cybersecurity baseline document published by NIST earlier this year
+
+Last week was a workshop to raise awareness and get community discussion
+https://www.nist.gov/news-events/events/2020/10/workshop-cybersecurity-risks-consumer-home-iot-products
+Dave Thaler was one of the invited panelists
