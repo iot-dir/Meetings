@@ -146,28 +146,30 @@ CoRE will meet at IETF 110. A series of 6 biweekly interim meetings is booked, f
 
 ## DetNet (Lou Berger / János Farkas)
 The WG has published the following RFCs:
-•	RFC 8557 Deterministic Networking Problem Statement
-•	RFC 8578 Deterministic Networking Use Cases
-•	RFC 8655 Deterministic Networking Architecture 
-•	RFC 8938 Deterministic Networking (DetNet) Data Plane Framework (2020-11)
-•	RFC 8939 Deterministic Networking (DetNet) Data Plane: IP (2020-11)
-•	RFC 8964 Deterministic Networking (DetNet) Data Plane: MPLS (2021-01)
+*	RFC 8557 Deterministic Networking Problem Statement
+*	RFC 8578 Deterministic Networking Use Cases
+*	RFC 8655 Deterministic Networking Architecture 
+*	RFC 8938 Deterministic Networking (DetNet) Data Plane Framework (2020-11)
+*	RFC 8939 Deterministic Networking (DetNet) Data Plane: IP (2020-11)
+*	RFC 8964 Deterministic Networking (DetNet) Data Plane: MPLS (2021-01)
+
 The following drafts are with the RFC Editor:
-•	draft-ietf-detnet-flow-information-model DetNet Flow and Service Information Model
-•	draft-ietf-detnet-ip-over-mpls DetNet Data Plane: IP over MPLS
-•	draft-ietf-detnet-mpls-over-udp-ip DetNet Data Plane: MPLS over UDP/IP
-•	draft-ietf-detnet-ip-over-tsn DetNet Data Plane: IP over IEEE 802.1 Time Sensitive Networking (TSN) 
-•	draft-ietf-detnet-mpls-over-tsn DetNet Data Plane: MPLS over IEEE 802.1 Time-Sensitive Networking (TSN) 
-•	draft-ietf-detnet-tsn-vpn-over-mpls DetNet Data Plane: IEEE 802.1 Time Sensitive Networking over MPLS
+*	draft-ietf-detnet-flow-information-model DetNet Flow and Service Information Model
+*	draft-ietf-detnet-ip-over-mpls DetNet Data Plane: IP over MPLS
+*	draft-ietf-detnet-mpls-over-udp-ip DetNet Data Plane: MPLS over UDP/IP
+*	draft-ietf-detnet-ip-over-tsn DetNet Data Plane: IP over IEEE 802.1 Time Sensitive Networking (TSN) 
+*	draft-ietf-detnet-mpls-over-tsn DetNet Data Plane: MPLS over IEEE 802.1 Time-Sensitive Networking (TSN) 
+*	draft-ietf-detnet-tsn-vpn-over-mpls DetNet Data Plane: IEEE 802.1 Time Sensitive Networking over MPLS
+
 The following draft is under IESG evaluation: 
-•	draft-ietf-detnet-security Deterministic Networking (DetNet) Security Considerations
+*	draft-ietf-detnet-security Deterministic Networking (DetNet) Security Considerations
 The following draft is at WG Last Call:
-•	draft-ietf-detnet-bounded-latency DetNet Bounded Latency
+*	draft-ietf-detnet-bounded-latency DetNet Bounded Latency
 The WG has the following drafts in progress:
-•	draft-ietf-detnet-yang Deterministic Networking (DetNet) Configuration YANG Model (getting close to WG Last Call)
-•	draft-ietf-detnet-mpls-oam Operations, Administration and Maintenance (OAM) for Deterministic Networks (DetNet) with MPLS Data Plane
-•	draft-ietf-detnet-ip-oam Operations, Administration and Maintenance (OAM) for Deterministic Networks (DetNet) with IP Data Plane
-•	draft-ietf-detnet-controller-plane-framework Deterministic Networking (DetNet) Controller Plane Framework (recently adopted)
+*	draft-ietf-detnet-yang Deterministic Networking (DetNet) Configuration YANG Model (getting close to WG Last Call)
+*	draft-ietf-detnet-mpls-oam Operations, Administration and Maintenance (OAM) for Deterministic Networks (DetNet) with MPLS Data Plane
+*	draft-ietf-detnet-ip-oam Operations, Administration and Maintenance (OAM) for Deterministic Networks (DetNet) with IP Data Plane
+*	draft-ietf-detnet-controller-plane-framework Deterministic Networking (DetNet) Controller Plane Framework (recently adopted)
 
 ## IOTOPS (IOT Operations) (Alexey Melnikov, Henk Birkholz)
 
