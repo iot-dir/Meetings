@@ -1,4 +1,4 @@
-Source: https://notes.ietf.org/iot-dir-ietf112-2021-11-04-notes?both
+Source: https://notes.ietf.org/iot-dir-ietf112-2021-11-04-notes
 
 IoT directorate IETF 112 pre-meeting
 IoT-DIR Chairs: Samita Chakrabarti, Ines Robles, Ari Keranen
