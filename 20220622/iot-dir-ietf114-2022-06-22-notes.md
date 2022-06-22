@@ -1,6 +1,8 @@
 
 # IoT directorate IETF 114 pre-meeting 
 
+Source: https://notes.ietf.org/iot-dir-preIETF114meeting-2022-06-22-notes?both
+
 IoT-DIR Chairs: Samita Chakrabarti, Ines Robles, Ari Keränen
 
 
