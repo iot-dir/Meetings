@@ -1,6 +1,6 @@
 # IoT directorate IETF 115 pre-meeting 
 
-Link to video recording: It will be added later
+Link to video recording: https://youtu.be/Zf1rYMVGh-c
 
 IoT-DIR Chairs: Samita Chakrabarti, Ines Robles, Ari Keränen
 
