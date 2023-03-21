@@ -51,6 +51,7 @@ Erik Nordmark
 János Farkas 
 Marco Tiloca
 Pascal Thubert
+Samita Chakrabarti
 
 
 # Overview of the IETF/IRTF IoT groups
@@ -151,7 +152,7 @@ Most interim and upcoming activity on "CDDL 2", which is currently being dissect
 * open working meetings on queueing to be conducted after IETF 116 every other week
 
 Samita: applications for scaling draft?
-Janos: service area networks
+Janos: Service Provider's networks. The proposal was brought to IETF by China Mobile
 
 ## IOTOPS (IOT Operations) (Alexey Melnikov, Henk Birkholz)
 
@@ -259,7 +260,11 @@ Ari: not yet, the presentations at the RG meetings are closest thing. Maybe wort
 
 # Update on 5G-ACIA (Samita)
 
+5G-ACIA ( 5G Alliance for Connected Industries & Automation: www.5g-acia.org) is a global association for understanding of 5G applicability on the modern Industrial Networks digitilization. The Industrial Operational Networks have different needs than regular IT communication networks. The smart manufacturing or process industry networks require high reliability, low latency, high security, high bandwidth in their networks. Wireless networks often pose challenges to these type of networks. 5G claims to have many of the properties including ultra-low latency, high bandwidth, in-built security, time synchronization and ability to support ethernet bridging over the 5G network. Samita does not see a direct co-relation between 5G-ACIA and IETF, though there might be some common interests in data modeling such as digital twins. Detnet applicability analysis in the industrial networks have been also analysed at 5G-ACIA. There might be some synergy with detnet upcoming draft on scaling.
+Ari mentions SDF and NMRG are looking into Asset Administration Shells for future data modeling. The following document might be a useful reference.
+White paper: https://5g-acia.org/whitepapers/using-digital-twins-to-integrate-5g-into-production-networks/
 
 # Other IoT SDOs update/activities 
 
 # AOB
+
