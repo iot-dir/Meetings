@@ -7,19 +7,9 @@ IoT-DIR Chairs: Samita Chakrabarti, Ines Robles, Ari Keränen
 Date: 2023-03-21
 Time: 2pm UTC
 
-## Meeting Details 
+## Meeting Recording 
 
-
-
-https://ietf.webex.com/ietf/j.php?MTID=m64155da8302c6bd59df28867bdc25d11
-Meeting number: 2436 810 9909
-Password: CdmBJEcA683
-Join by video system
-Dial 24368109909@ietf.webex.com
-You can also dial 173.243.2.68 and enter your meeting number.
-Join by phone
-1-650-479-3208 Call-in toll number (US/Canada)
-Access code: 243 681 09909
+Link to the Video Recording: TBD
 
 ## Note Well
 
@@ -38,20 +28,19 @@ Notice that we aim to record the meeting.
 
 # Attendees
 
-* Please add your name here
-
-Marco Tiloca, RISE
-Carsten Bormann, Universität Bremen TZI
-Erik Kline, Aalyria (~30min only)
-Dominique Barthel, self
-Carles Gomez, UPC
-Emmanuel Baccelli, Inria / FU Berlin
-Behcet Sarikaya
-Erik Nordmark
-János Farkas 
-Marco Tiloca
-Pascal Thubert
-Samita Chakrabarti
+* Marco Tiloca, RISE
+* Carsten Bormann, Universität Bremen TZI
+* Erik Kline, Aalyria (~30min only)
+* Dominique Barthel, self
+* Carles Gomez, UPC
+* Emmanuel Baccelli, Inria / FU Berlin
+* Behcet Sarikaya
+* Erik Nordmark
+* János Farkas 
+* Marco Tiloca
+* Pascal Thubert
+* Samita Chakrabarti
+* Ines Robles
 
 
 # Overview of the IETF/IRTF IoT groups
