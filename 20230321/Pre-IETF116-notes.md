@@ -9,7 +9,7 @@ Time: 2pm UTC
 
 ## Meeting Recording 
 
-Link to the Video Recording: TBD
+Link to the Video Recording:https://www.youtube.com/watch?v=79oYJw4zEpY
 
 ## Note Well
 
