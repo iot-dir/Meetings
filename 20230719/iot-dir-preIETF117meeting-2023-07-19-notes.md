@@ -2,32 +2,14 @@
 Source: https://notes.ietf.org/iot-dir-preIETF117meeting-2023-07-19-notes?both
 
 IoT-DIR Chairs: Samita Chakrabarti, Ines Robles, Ari Keranen
-
-
 Date: 19-07-2023
 Time: 2:00pm UTC
 
-## Webex
-
-
-https://ietf.webex.com/ietf/j.php?MTID=m16bfcf0e228ce4dfb9eb9aacb1e11571
-
-Wednesday, July 19, 2023 7:00 AM | 1 hour 30 minutes | (UTC-07:00) Pacific Time (US & Canada)
-Meeting number: 2425 861 4408
-Password: xmSWGXeM483
-
-Join by video system
-Dial 24258614408@ietf.webex.com
-You can also dial 173.243.2.68 and enter your meeting number.
-
-Join by phone
-1-650-479-3208 Call-in toll number (US/Canada)
-
-Access code: 242 586 14408
-
 ## Meeting Details 
-
 This meeting is aligned with the IETF Note Well: https://www.ietf.org/about/note-well/
+
+## Recording:
+https://www.youtube.com/watch?v=dX7vAivc9nk
 
 ## Draft agenda
 
@@ -35,7 +17,6 @@ This meeting is aligned with the IETF Note Well: https://www.ietf.org/about/note
 * New/planned IETF/IRTF IoT activities
 * Other IoT SDOs update/activities (if applicable, e.g. IoTSF, etc. )
 * AOB. 
-
 
 Notice that we aim to record the meeting.
 
