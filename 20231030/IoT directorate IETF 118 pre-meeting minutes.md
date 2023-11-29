@@ -2,6 +2,7 @@
 
 IoT-DIR Chairs: Samita Chakrabarti, Ines Robles, Ari Keranen
 
+youtube Recording: https://www.youtube.com/watch?v=NbyueD_p2Gg
 
 Date: 30th October
 Time: 5pm UTC
